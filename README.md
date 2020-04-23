@@ -1,2 +1,2 @@
 # Hackathon
-Projects includes hackathon participation
+Projects includes from hackathon participation
